@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  Multiple users. Access from a different PC. Further backup in case access to local is restricted.
