@@ -25,3 +25,8 @@ one instead of another?
   Forking is the process of 'cloning' someone else's repository. You are
   basically cloning a repository, it just gets stored on GitHub servers and
   not locally.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+  To see who last made changes.
