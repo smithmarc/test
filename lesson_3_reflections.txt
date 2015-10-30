@@ -38,3 +38,10 @@ what would be harder?
   changes could be another way, but these would still need to be merged and
   as we know finding merges could prove difficult. The more difficult a task
   becomes the harder it would be to collaborate efficiently.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+  As to not break anything that may already be live. It will take slightly
+  longer to create a new branch and make changes that way, but it will be safer
+  to do so.
